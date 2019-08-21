@@ -1,0 +1,2 @@
+﻿- Adicionado: Novo Tema disponível (Theme Light).
+- Corrigido:  Bugs.

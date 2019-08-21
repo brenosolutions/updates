@@ -1,0 +1,5 @@
+﻿- Melhorias: Página de vídeos.
+- Corrigido: Exibição dos anúncios na página da notícia.
+- Corrigido: Exibição dos anúncios na página do evento.
+- Corrigido: Excluir comentário da notícia.
+- Corrigido: Excluir comentário do evento.

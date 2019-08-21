@@ -1,0 +1,6 @@
+﻿- Adicionado: Chat (bate-papo) na página home e gerenciamento no painel.
+- Adicionado: Opção para ocultar o box ouvinte do mês.
+- Adicionado: Upload de músicas em mp3 no TOP5 e opção para ocultar o box TOP5.
+- Adicionado: Opção para ocultar o box ouvinte do mês.
+- Corrigido: Instagram do ouvinte do mês.
+- Corrigido: Últimas notícias da página home.

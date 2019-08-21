@@ -1,0 +1,3 @@
+﻿- Melhoria: Notificação de atualização movida para página Dashboard
+- Adicionado: Contador de visita e visitante online no rodapé
+- Adicionado: Sistema de Enquete

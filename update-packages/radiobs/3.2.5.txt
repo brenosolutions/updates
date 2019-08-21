@@ -1,0 +1,2 @@
+﻿- Adicionado e corrigido Upload MP3 do top 5.
+- Removido opção de inserir link do top 5.

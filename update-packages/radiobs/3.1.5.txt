@@ -1,0 +1,1 @@
+﻿- Adicionado: Álbuns de fotos. Agora poderá organizar as fotos em álbuns.

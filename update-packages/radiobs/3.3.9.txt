@@ -1,0 +1,33 @@
+﻿- Adicionando: CAPTCHA no mural de recados.
+- Adicionando: Novo sistema de mural de recados.
+- Adicionando: Novo layout do mural de recados.
+- Adicionando: Contador de usuário online no chat.
+- Adicionando: Novo sistema de notícias.
+- Adicionando: Novo Layout notícias.
+- Adicionando: Novo Layout comentários.
+- Adicionando: Novo Layout top5.
+- Adicionando: Novo sistema de eventos.
+- Adicionando: Novo Layout eventos.
+- Adicionado: Opção para desativar contador de visitas
+- Adicionado: Opção de inserir link no slide.
+- Corrigido: Páginas de vídeos e recados.
+- Corrigido: Expirar usuário do chat.
+- Corrigido: Posição do player no rodapé.
+- Corrigido: Player do top5.
+- Melhorado: Cache.
+- Melhorado: Player próprio.
+- Melhorias: Otimização das páginas e Correções de bugs.
+- Removido: Nossa página na home.
+
+<h1 style="font-size:32px;COLOR: #ff0000;">Como atualizar?</h1><span style="font-size:14px;color: #3f00ff;">1 - Entre em contato para solicitar os arquivos desta nova atualização.
+2 - Verifique se a versão anterior do seu site é realmente a versão 3.3.8.
+3 - Extraia o arquivo <strong>3.3.9-update.zip</strong> fornecido na raiz da instalação do site.
+4 - Pronto, seu site foi atualizado com sucesso!</span>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63118517-1');
+</script>

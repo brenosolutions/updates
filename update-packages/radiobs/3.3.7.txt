@@ -1,0 +1,8 @@
+﻿- Corrigido: player padrão agora funciona no celular.
+- Melhorado: Player padrão.
+- Corrigido: Programação que exibia locutor no ar em toda semana.
+- Adicionando: Suporte para SHOUTcast V1.
+- Corrigido: Tempo de atividade do usuário online.
+- Adicionado: Link do Facebook na foto do locutor.
+- Movido: Código do player próprio para o módulo Widget.
+- Adicionado: Novo sistema da equipe.

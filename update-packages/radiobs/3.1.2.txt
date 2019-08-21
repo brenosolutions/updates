@@ -1,0 +1,2 @@
+﻿- Corrigido: Anunciantes e Estatísticas.
+- Adicionado: Notificação de atualização.

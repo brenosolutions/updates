@@ -1,0 +1,2 @@
+﻿<span style="font-size:20px;">- Adcionado Banco de Vozes</span>
+<span style="font-size:20px;">- Entre em contato com o desenvolvedor do produto para solicitar o arquivo para atualização.</span>

@@ -1,0 +1,1 @@
+﻿- Corrigido: Posição do player próprio. 

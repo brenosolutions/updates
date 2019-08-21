@@ -1,0 +1,9 @@
+﻿- Adicionado: Locutor Automático.
+- Adicionado: Menu automação  - Locutor Automático.
+- Adicionado: Cadastro Locutor ilimitado.
+- Adicionado: Novo Sistema de programação.
+- Corrigido: Marcação da página atual no menu do painel.
+- Corrigido: Enquete.
+- Corrigido: Anunciantes que não exibia nas páginas notícias, eventos e vídeos.
+- Corrigido: Tempo banner rotativo.
+- Removido: Backup automático.

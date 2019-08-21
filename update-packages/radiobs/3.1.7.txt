@@ -1,0 +1,4 @@
+﻿- Correções de bug.
+- Adicionado: Opção para inserir player próprio.
+- Adicionado: Opção de inserir anúncios ilimitados.
+Atenção! Após está atualização seus anúncios cadastrados anteriormente não serão mais exibidos, precisá cadastrar novamente no novo sistema de anúncios.

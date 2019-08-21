@@ -1,0 +1,1 @@
+﻿- Correção da versão 3.1.4: Notícias.

@@ -1,0 +1,20 @@
+﻿<h1 style="font-size:20px;color: #ff0000;">Requisitos Necessários</h1><span style="font-size:14px;color: #3f00ff;">PHP 5.6 a 7.0
+Ioncube loader v10
+</span>
+- Correções de bugs.
+- Corrigido notícias home.
+- Seo e otimização.
+- Suporte a idiomas - disponível no momento: Português, English
+- Nome da música no player.
+- Suporte Certificado SSL - https://
+- Novo servidor de atualização.
+- Nova api Google Analytics
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63118517-1');
+</script>

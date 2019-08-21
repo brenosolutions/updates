@@ -1,0 +1,1 @@
+﻿- Correção: Player Padrão para tela de dispositivo móvel.

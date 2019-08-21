@@ -1,0 +1,26 @@
+﻿<h1 style="font-size:100px;color: #ff0000;">ATENÇÃO!</h1><span style="font-size:25px;color: #3f00ff;">Seu dados de acesso temporário será:
+</span>
+<span style="font-size:25px;">Usuário: <span style="color: #ff0000;">admin</span>
+</span>
+<span style="font-size:25px;">Senha: <span style="color: #ff0000;">admin</span></span>
+
+<span style="font-size:16px;color: #ff0000;">Anote seu usuário e senha temporário.</span>
+
+
+<h1 style="font-size:20px;color: #ff0000;">Novidades</h1>- Adicionando: Multiusuário com nível de permissão.
+- Adicionando: Novo ícone chat para usuário com acesso de locutor.
+- Correção: Comentário eventos.
+- Correção: Criação de álbum.
+
+
+<h1 style="font-size:20px;color: #ff0000;">Requisitos Necessários</h1><span style="font-size:14px;color: #3f00ff;">PHP 5.6 a 7.1
+Ioncube loader v10.2
+</span>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63118517-1');
+</script>

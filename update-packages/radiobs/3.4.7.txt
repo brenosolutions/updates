@@ -1,0 +1,12 @@
+﻿<h1 style="font-size:20px;color: #ff0000;">Atualização recomendada</h1>- Adicionando: Novo servidor de Proxy.
+- Adicionando: Opção de recuperar senha - versão beta.
+- Correção: Edição nível Administrador.
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63118517-1');
+</script>

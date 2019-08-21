@@ -1,0 +1,3 @@
+﻿- Corrigido: Notícias na página home.
+- Corrigido: Scroll(rolagem de página).
+

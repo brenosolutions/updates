@@ -1,0 +1,1 @@
+﻿- Adicionado estado de Pernambuco nas configurações do perfil.
