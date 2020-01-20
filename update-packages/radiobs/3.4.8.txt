@@ -1,0 +1,17 @@
+﻿<h1 style="font-size:20px;color: #ff0000;">Serão redefinidos os dados da programação e locutores</h1>- Melhorado: Pedido de Músicas é ativado de acordo com a programação.
+- Removido: Gerenciar locutores - Foi transferido para gerenciar Usuários.
+- Adicionado: Notícias automatizadas
+- Melhorado: Sistema de programação - programação ilimitada, opção de escolher dia da semana de segunda a domingo.
+- Adicionado: Opção para utilizar o próprio URL Proxy SSL no Player
+- Correção: Contador de visita
+- Correção: Titulo curto da notícia
+- Correção: PHP 7.1
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63118517-1');
+</script>
