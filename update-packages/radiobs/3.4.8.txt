@@ -5,7 +5,7 @@
 - Adicionado: Opção para utilizar o próprio URL Proxy SSL no Player
 - Correção: Contador de visita
 - Correção: Titulo curto da notícia
-- Correção: PHP 7.1
+- Correção: PHP 7.1 ou superior
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
 <script>
