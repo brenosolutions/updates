@@ -1,0 +1,22 @@
+﻿- Adicionado: Carregamento em ajax.
+- Adicionado: Botões para compartilhar notícias.
+- Correção: Chat login - Agora o usuário não desconecta quando atualiza a página.
+- Adicionado: Emojis no chat.
+- Melhorado: Layout do chat.
+- Adicionado: Função para abrir vídeo em modal- Melhorou 46% do carregamento da página.
+- Adicionado:Título do vídeo na página vídeos
+- Melhorado: SEO e Otimização - Melhorou 23% do carregamento da página.
+- Adicionado: Thumbnail nas imagens - Melhorou 16% do carregamento da página.
+- Adicionado: Upload de foto no Mural de recados
+- Adicionado: Captcha no formulário de contato
+- Adicionado: Novos players
+- Melhorado: Módulo eventos com automação.
+- Correções de bugs e melhorias.
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63118517-1');
+</script>
