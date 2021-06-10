@@ -1,0 +1,14 @@
+Atualizaçação importante de segurança
+Correções de bug e otimização
+Adicionado - Módulo Podcasts
+Adicionado - Novas funções no módulo enquente.
+Adicionado - Link youtube Top Music
+Adicionado - Botão social: Telegram, SoundCloud, TikTok
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63118517-1');
+</script>
