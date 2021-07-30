@@ -1,0 +1,12 @@
+﻿- Correção: podcast - Ordenar áudio. 
+- Atualização de Segurança
+- SEO e otimização
+- Correções de bugs
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63118517-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63118517-1');
+</script>
